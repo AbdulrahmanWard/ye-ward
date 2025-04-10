@@ -53,4 +53,4 @@
 
 ## 📫 Connect With Me
 - LinkedIn: [Abdulrahman Alward](https://linkedin.com/in/abdulrahman-alward)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [alwerdye774@gmail.com](mailto:alwerdye774@gmail.com)
