@@ -12,6 +12,32 @@
 - 🎯 Goal: Building a unified platform for government e-services
 - 💡 Fun fact: I enjoy analyzing complex systems and turning them into simple solutions
 
+## 🎯 What I Offer | ماذا أقدم
+
+### 💼 Professional Services
+- **Full-Stack Web Development** - Modern web applications using React, Next.js, and Node.js
+- **Enterprise Solutions** - Scalable business applications with .NET Core and C#
+- **Mobile App Development** - Cross-platform mobile apps using Flutter
+- **Backend Development** - RESTful APIs and microservices architecture
+- **Database Design** - PostgreSQL database optimization and management
+- **DevOps & Automation** - CI/CD pipelines and deployment automation
+- **AI Integration** - Implementing AI solutions in enterprise applications
+- **Government E-Services** - Specialized in building digital government platforms
+
+### 🚀 Technical Expertise
+- **Frontend**: JavaScript, TypeScript, React, Next.js
+- **Backend**: Node.js, NestJS, .NET Core, C#, Laravel (PHP)
+- **Mobile**: Flutter, cross-platform development
+- **Database**: PostgreSQL, database optimization
+- **Cloud & DevOps**: Kubernetes, Docker, GKE deployment
+- **AI & Modern Tech**: Machine learning integration, automation workflows
+
+### 🎯 Specialized Focus
+- Government digital transformation projects
+- Enterprise application modernization
+- Scalable microservices architecture
+- Complex system analysis and optimization
+
 ## 🛠️ Tech Stack
 
 <div align="left">
